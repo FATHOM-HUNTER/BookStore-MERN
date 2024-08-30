@@ -89,5 +89,4 @@ The project is divided into two main components:
 
 ## Notes
 
-- This application is designed to run locally. Deployment on a server is not included in this project.
 - For any issues or feature requests, please open an issue on the repository.
